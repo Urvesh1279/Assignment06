@@ -1,0 +1,3 @@
+1.	What is Middleware in express?
+	Express serves is use for a routing and Middleware framework is use for handling the different routing of the webpage and it works 	between the request and response cycle.
+	It is executed after the server receives request and before the controller actions send the response.

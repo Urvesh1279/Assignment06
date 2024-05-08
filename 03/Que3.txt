@@ -1,0 +1,5 @@
+3.	What is different between encryption and hashing?
+	Encryption is a reversible process, but hashing is not.
+	Hashing is more secure for comparison with encryption.
+	The main purpose of encryption is to secure the data by converting into an unreadable format.
+	The main purpose of hashing is to check integrity of data. 

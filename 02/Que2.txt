@@ -1,0 +1,4 @@
+2.	What is json web token ?
+	JSON stands for Javascript Object Notation and is a text-based format for transmitting data accross web applications. 
+	A token is string of data that represent something else, we can call it is JSON object which is used to securly transfer information 	over the web(between two parties).
+	It can be used for an authentication system and can also be used for information exchange.
